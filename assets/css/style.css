@@ -1,0 +1,10 @@
+body{
+    background-image: url(../images/soccer3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#color{
+    color: black;
+}
